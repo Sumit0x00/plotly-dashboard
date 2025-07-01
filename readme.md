@@ -1,5 +1,5 @@
 ## Indian Census 2011 Dashboard
-
+![Alt text](img.png)
 
 This interactive dashboard visualizes key demographic indicators from the Indian Census 2011 dataset using Plotly. The dashboard displays literacy rates, male/female literacy statistics, population distribution, and sex ratio across Indian states and union territories.
 
@@ -36,7 +36,7 @@ Pandas
 
 Dash (for web deployment)
 
-### Installation
+## Installation
 Clone the repository:
 
 ```
@@ -44,7 +44,7 @@ git clone https://github.com/Sumit0x00/plotly-dashboard.git
 cd plotly-dashboard
 ```
 
-### Usage
+## Usage
 
 - Run the dashboard locally:
 
